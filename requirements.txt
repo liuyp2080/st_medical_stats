@@ -1,6 +1,3 @@
-fastapi 
-pydantic 
-pandas
-pingouin
-typing
-uvicorn
+requests
+altair
+streamlit_option_menu
